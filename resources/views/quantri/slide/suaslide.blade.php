@@ -1,0 +1,1 @@
+suaslide.blade.php
